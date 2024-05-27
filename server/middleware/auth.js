@@ -1,5 +1,5 @@
 const jwt = require('jsonwebtoken');
-const secret = 'your_jwt_secret'; // Replace with your secret key
+const secret = 'your secret key'; 
 
 module.exports = function(req, res, next) {
   const token = req.header('x-auth-token');
