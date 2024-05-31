@@ -3,6 +3,7 @@
 ## Description
 
 Career Path Navigator is a platform designed to help students discover potential career paths based on their interests, skills, and academic background. It provides information on required skills, potential job roles, average salaries, and steps to achieve career goals.
+** For Our Hackathon We are building it - Team ShadowRise
 
 ## Features
 
@@ -26,3 +27,23 @@ To set up the project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/career-path-navigator.git
+
+   Navigate to the project directory:
+
+
+## Navigate to the project directory:
+cd career-path-navigator
+Install frontend dependencies:
+
+
+## Navigate to the project directory:
+cd client
+npm install
+
+
+## Install backend dependencies:
+cd ../server
+npm install
+Create a .env file in the server directory and add your MongoDB URI and other environment variables:
+
+
