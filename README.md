@@ -28,7 +28,6 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/career-path-navigator.git
 
-   Navigate to the project directory:
 
 
 ## Navigate to the project directory:
